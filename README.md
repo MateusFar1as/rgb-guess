@@ -17,7 +17,7 @@ The player has to guess which RGB code corresponds to the color of the circle. I
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/MateusFar1as/rgb-guess.git
+    git clone https://github.com/MateusFar1as/rgb-guess
     ```
 2. Navigate to the project directory:
     ```sh
